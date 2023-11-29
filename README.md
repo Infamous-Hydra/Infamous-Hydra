@@ -20,6 +20,25 @@
 
 <br>
 
+## My GitHub Profile Metrics
+
+<p align="center"> 
+  Total Visitors<br>
+  <img src="https://profile-counter.glitch.me/Infamous-Hydra/count.svg" />
+</p>
+
+### GitHub Overview
+
+<a href="https://github.com/Infamous-Hydra/github-readme-stats">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Infamous-Hydra&show_icons=True&include_all_commits=True&count_private=True&theme=react&hide_border=True&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+</a>
+
+### Activity Graph
+
+<a href="https://github.com/Infamous-Hydra/github-readme-activity-graph">
+  <img alt="User Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Infamous-Hydra&bg_color=282828&color=ebdbb2&line=83a598&point=ffffff&hide_border=true" />
+</a>
+
 ### 💻 Tech Stack
 
 - Programming Languages: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
